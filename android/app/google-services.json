@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820324041252",
+    "project_id": "plant-admin-app",
+    "storage_bucket": "plant-admin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820324041252:android:daef8921b177abb4cb8eb1",
+        "android_client_info": {
+          "package_name": "com.mighty.plantadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820324041252-dnvsomk1ibq7gogsm0uhtf8vdq8n1bqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyilqEmu8nJEVXKDPz0wS0tnFvuMt_EAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820324041252-dnvsomk1ibq7gogsm0uhtf8vdq8n1bqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
